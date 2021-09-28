@@ -1,0 +1,9 @@
+[Core]
+Name = RMS
+Module = rms
+
+[Documentation]
+Description = Corrects people when they say Linux but probably mean GNU/Linux
+
+[Python]
+Version = 3
